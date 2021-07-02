@@ -1,4 +1,4 @@
-import { currencyEquals, Trade } from 'htthuniswap-sdk'
+import { currencyEquals, Trade } from 'skykeyuniswap'
 import React, { useCallback, useMemo } from 'react'
 import TransactionConfirmationModal, {
   ConfirmationModalContent,

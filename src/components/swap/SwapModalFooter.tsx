@@ -1,4 +1,4 @@
-import { Trade, TradeType } from 'htthuniswap-sdk'
+import { Trade, TradeType } from 'skykeyuniswap'
 import React, { useContext, useMemo, useState } from 'react'
 import { Repeat } from 'react-feather'
 import { Text } from 'rebass'

@@ -1,4 +1,4 @@
-import { Currency, ETHER, JSBI, TokenAmount } from 'htthuniswap-sdk'
+import { Currency, ETHER, JSBI, TokenAmount } from 'skykeyuniswap'
 import React, { useCallback, useEffect, useState } from 'react'
 import { Plus } from 'react-feather'
 import { Text } from 'rebass'

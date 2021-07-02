@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from 'htthuniswap-sdk'
+import { Currency, ETHER, Token } from 'skykeyuniswap'
 import React, { useMemo } from 'react'
 import styled from 'styled-components'
 

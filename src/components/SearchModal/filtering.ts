@@ -1,5 +1,5 @@
 import { isAddress } from '../../utils'
-import { Token } from 'htthuniswap-sdk'
+import { Token } from 'skykeyuniswap'
 
 export function filterTokens(tokens: Token[], search: string): Token[] {
   if (search.length === 0) return tokens

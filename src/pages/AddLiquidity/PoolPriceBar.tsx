@@ -1,4 +1,4 @@
-import { Currency, Percent, Price } from 'htthuniswap-sdk'
+import { Currency, Percent, Price } from 'skykeyuniswap'
 import React, { useContext } from 'react'
 import { Text } from 'rebass'
 import { ThemeContext } from 'styled-components'

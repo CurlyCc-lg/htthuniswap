@@ -1,4 +1,4 @@
-import { Currency, currencyEquals, ETHER, WETH } from 'htthuniswap-sdk'
+import { Currency, currencyEquals, ETHER, WETH } from 'skykeyuniswap'
 import { useMemo } from 'react'
 import { tryParseAmount } from '../state/swap/hooks'
 import { useTransactionAdder } from '../state/transactions/hooks'

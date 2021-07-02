@@ -1,4 +1,4 @@
-import { ChainId } from 'htthuniswap-sdk'
+import { ChainId } from 'skykeyuniswap'
 import React, { useContext } from 'react'
 import styled, { ThemeContext } from 'styled-components'
 import Modal from '../Modal'

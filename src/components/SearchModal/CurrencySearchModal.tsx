@@ -1,4 +1,4 @@
-import { Currency } from 'htthuniswap-sdk'
+import { Currency } from 'skykeyuniswap'
 import React, { useCallback, useEffect, useState } from 'react'
 import ReactGA from 'react-ga'
 import useLast from '../../hooks/useLast'

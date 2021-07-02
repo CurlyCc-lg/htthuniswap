@@ -1,4 +1,4 @@
-import { ChainId } from 'htthuniswap-sdk'
+import { ChainId } from 'skykeyuniswap'
 import { createStore, Store } from 'redux'
 import { addPopup, removePopup, toggleSettingsMenu, toggleWalletModal, updateBlockNumber } from './actions'
 import reducer, { ApplicationState } from './reducer'

@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from 'htthuniswap-sdk'
+import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from 'skykeyuniswap'
 import { computeTradePriceBreakdown } from './prices'
 
 describe('prices', () => {

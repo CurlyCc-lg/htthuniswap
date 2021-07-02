@@ -1,4 +1,4 @@
-import { Currency } from 'htthuniswap-sdk'
+import { Currency } from 'skykeyuniswap'
 import React from 'react'
 import styled from 'styled-components'
 import CurrencyLogo from '../CurrencyLogo'

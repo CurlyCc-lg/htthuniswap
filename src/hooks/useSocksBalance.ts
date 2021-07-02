@@ -1,4 +1,4 @@
-import { JSBI } from 'htthuniswap-sdk'
+import { JSBI } from 'skykeyuniswap'
 import { useMemo } from 'react'
 import { NEVER_RELOAD, useSingleCallResult } from '../state/multicall/hooks'
 import { useActiveWeb3React } from './index'

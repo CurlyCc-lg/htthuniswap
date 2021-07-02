@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from 'htthuniswap-sdk'
+import { Currency, ETHER, Token } from 'skykeyuniswap'
 
 export function currencyId(currency: Currency): string {
   if (currency === ETHER) return 'ETH'

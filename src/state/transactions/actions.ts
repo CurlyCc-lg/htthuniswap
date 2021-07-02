@@ -1,5 +1,5 @@
 import { createAction } from '@reduxjs/toolkit'
-import { ChainId } from 'htthuniswap-sdk'
+import { ChainId } from 'skykeyuniswap'
 
 export interface SerializableTransactionReceipt {
   to: string

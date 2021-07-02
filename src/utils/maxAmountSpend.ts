@@ -1,4 +1,4 @@
-import { CurrencyAmount, ETHER, JSBI } from 'htthuniswap-sdk'
+import { CurrencyAmount, ETHER, JSBI } from 'skykeyuniswap'
 import { MIN_ETH } from '../constants'
 
 /**

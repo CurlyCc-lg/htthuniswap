@@ -1,4 +1,4 @@
-import { ChainId } from 'htthuniswap-sdk'
+import { ChainId } from 'skykeyuniswap'
 import React from 'react'
 import { isMobile } from 'react-device-detect'
 import { Text } from 'rebass'

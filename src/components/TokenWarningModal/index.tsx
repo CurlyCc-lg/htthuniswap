@@ -1,4 +1,4 @@
-import { Token } from 'htthuniswap-sdk'
+import { Token } from 'skykeyuniswap'
 import { transparentize } from 'polished'
 import React, { useCallback, useMemo, useState } from 'react'
 import styled from 'styled-components'

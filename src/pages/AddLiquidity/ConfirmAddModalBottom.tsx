@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Fraction, Percent } from 'htthuniswap-sdk'
+import { Currency, CurrencyAmount, Fraction, Percent } from 'skykeyuniswap'
 import React from 'react'
 import { Text } from 'rebass'
 import { ButtonPrimary } from '../../components/Button'

@@ -1,4 +1,4 @@
-import { Trade } from 'htthuniswap-sdk'
+import { Trade } from 'skykeyuniswap'
 import React, { Fragment, memo, useContext } from 'react'
 import { ChevronRight } from 'react-feather'
 import { Flex } from 'rebass'

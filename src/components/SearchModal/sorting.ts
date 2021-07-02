@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from 'htthuniswap-sdk'
+import { Token, TokenAmount } from 'skykeyuniswap'
 import { useMemo } from 'react'
 import { useAllTokenBalances } from '../../state/wallet/hooks'
 
